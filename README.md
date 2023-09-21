@@ -1,5 +1,5 @@
 - 👋 Hi, I'm [@afaqtahir](https://github.com/afaqtahir)
-- 🚀 Software Engineer | Python Django & ASP.NET Specialist | Project Management Enthusiast
+- 🚀 Software Engineer | Python Django & ASP.NET Specialist
 - 👀 I'm interested in coding, technology, and innovation.
 - 🌱 I'm currently learning new programming languages and exploring emerging technologies.
 - 💞️ I'm looking to collaborate on open-source projects and exciting tech initiatives.
